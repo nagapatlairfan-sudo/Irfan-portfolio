@@ -35,8 +35,7 @@ Technologies: Python, Scikit-learn, Flask, HTML, CSS.
 ## 📫 Contact
 - Email: nagapatlairfan@gmail.com
 
-## 🌍 Live Website
-Coming soon!
+
 
 ---
 ⭐ Thank you for visiting my portfolio repository!
