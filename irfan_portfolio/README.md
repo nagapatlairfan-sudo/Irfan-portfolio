@@ -1,16 +1,40 @@
-# Irfan Portfolio Website
+# 🌐 My Personal Portfolio Website
 
-A responsive single-page portfolio website built with plain HTML, CSS, and JavaScript.
+Welcome to my personal portfolio website!
 
-## Run locally
-1. Extract this ZIP.
-2. Keep `index.html` and the `assets` folder together.
-3. Open `index.html` in a browser.
+I'm Nagapatla Mohammad Irfan, a Computer Science and Engineering
+student specializing in Artificial Intelligence and Machine Learning
+at Mohan Babu University.
 
-## Customize
-- Edit text and sections in `index.html`.
-- Replace `assets/irfan.jpeg` to use another portrait.
-- Update the email/phone links in the Contact section if needed.
+## 🚀 About Me
+I'm passionate about Python programming, web development, and
+machine learning. I'm continuously learning new technologies and
+building projects to improve my technical skills.
 
-## Publish
-You can upload these files to GitHub Pages, Netlify, or Render Static Sites. Make sure the `assets` folder is uploaded along with `index.html`.
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Machine Learning
+
+## 💻 Featured Project
+### Student Performance Predictor
+A machine learning web application that predicts student performance
+based on study hours, attendance, and previous marks.
+
+Technologies: Python, Scikit-learn, Flask, HTML, CSS.
+
+## 🎓 Education
+- B.Tech in CSE (AI & ML) — Mohan Babu University
+- Intermediate — MPC
+- SSC
+
+## 📫 Contact
+- Email: nagapatlairfan@gmail.com
+
+## 🌍 Live Website
+Coming soon!
+
+---
+⭐ Thank you for visiting my portfolio repository!
